@@ -1,48 +1,76 @@
-<h1 align="center">Olá, eu sou o Marcelo Guigas 👋</h1>
+<h1 align="center">🧠 Marcelo Santos</h1>
+<h3 align="center">Estudante de Tecnologia da Informação na <strong>Unicamp</strong> | Dev que ama NBA, Python e projetos criativos 👨‍💻🏀</h3>
 
 <p align="center">
-  💻 Estudante de Tecnologia da Informação na <strong>Unicamp</strong><br>
-  👨‍💻 Apaixonado por programação e desenvolvimento de sistemas<br>
-  🏀 Fã de basquete e da NBA, torcedor dos Grizzlies
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=800&lines=Criando+coisas+com+alma+de+dev+e+coração+de+Grizzlies.;Code+Mode%3A+Always+Clutch+%F0%9F%94%A5" />
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🎮 Snake Game Dev Edition (Se mexe sozinho 😎)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+<p align="center" style="font-size: 20px;">
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛<br>
+⬛ 🟩 🟩 🟩 🟩 🟢 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
+⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
+⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
+⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 </p>
 
 ---
 
-### 🎓 Universidade
+### 🧰 Tecnologias que dominei
 
 <p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2015/02/unicamp-logo-branco.png" height="60" alt="Unicamp Logo"/>
-  <img src="https://www3.ft.unicamp.br/sites/default/files/logotipo/novo/logo/af-vertical/af-logo-ft-vertical-pos.png" height="60" alt="FT Logo"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+### 🏀 NBA Corner
 
-- 📧 Email: [marcelosantosbm3@outlook.com](marcelosantosbm3@outlook.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/marcelo-dos-santos-da-boa-morte-5985a3262]([https://linkedin.com/in/seunome](https://www.linkedin.com/in/marcelo-dos-santos-da-boa-morte-5985a3262/))
-- 📌 Repositórios em destaque abaixo 👇
-  
-Simulador De Brasileirão em Python: 
-[https://github.com/2pacdevv/Brasileiro---Simulador](https://github.com/2pacdevv/Brasileiro---Simulador)
+<p align="center">
+  <img src="https://media.giphy.com/media/UsmcxQZFk6F1EqmNe0/giphy.gif" width="200px"/>
+  <br><strong>“Ja Morant programming in real life.”</strong><br>
+</p>
 
 ---
 
+### 🎓 Unicamp Orgulho
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2pacdevv&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://logodownload.org/wp-content/uploads/2015/02/unicamp-logo-branco.png" height="60"/>
+  <img src="https://www3.ft.unicamp.br/sites/default/files/logotipo/novo/logo/af-vertical/af-logo-ft-vertical-pos.png" height="60"/>
 </p>
+
+---
+
+### 📫 Contato
+
+- 📧 [marcelosantosbm3@outlook.com](mailto:marcelosantosbm3@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-dos-santos-da-boa-morte-5985a3262/)
+- 🧠 [Simulador do Brasileirão em Python](https://github.com/2pacdevv/Brasileiro---Simulador)
+
+---
+
+### 📊 Stats? Olha aí:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2pacdevv&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2pacdevv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
+</p>
+
+---
+
+### 🧩 Easter Egg
+
+<details>
+  <summary>🔓 Clique aqui se você é dev de verdade 😏</summary>
+
