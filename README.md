@@ -2,20 +2,7 @@
 <h3 align="center">Estudante de Tecnologia da Informação na <strong>Unicamp</strong> | Dev que ama NBA, Python e projetos criativos 👨‍💻🏀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=800&lines=Criando+coisas+com+alma+de+dev+e+coração+de+Grizzlies.;Code+Mode%3A+Always+Clutch+%F0%9F%94%A5" />
-</p>
-
----
-
-### 🎮 Snake Game Dev Edition (Se mexe sozinho 😎)
-
-<p align="center" style="font-size: 20px;">
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛<br>
-⬛ 🟩 🟩 🟩 🟩 🟢 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
-⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
-⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
-⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛<br>
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=800&lines=Criando+coisas+com+alma+de+dev+e+coração+de+Grizzlies.;" />
 </p>
 
 ---
@@ -43,7 +30,7 @@
 
 ---
 
-### 🎓 Unicamp Orgulho
+### 🎓 Universidade
 
 <p align="center">
   <img src="https://logodownload.org/wp-content/uploads/2015/02/unicamp-logo-branco.png" height="60"/>
@@ -69,8 +56,4 @@
 
 ---
 
-### 🧩 Easter Egg
-
-<details>
-  <summary>🔓 Clique aqui se você é dev de verdade 😏</summary>
 
