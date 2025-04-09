@@ -1,13 +1,16 @@
 <h1 align="center">🧠 Marcelo Santos</h1>
-<h3 align="center">Estudante de Tecnologia da Informação na <strong>Unicamp</strong> | Dev que ama NBA, Python e projetos criativos 👨‍💻🏀</h3>
+<h3 align="center">
+  Estudante de Tecnologia da Informação na <strong>Unicamp</strong> | 
+  Dev que ama NBA, Python e projetos criativos 👨‍💻🏀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=800&lines=Criando+coisas+com+alma+de+dev+e+coração+de+Grizzlies.;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=800&lines=Criando+coisas+com+alma+de+dev+e+coração+de+Grizzlies." />
 </p>
 
 ---
 
-### 🧰 Tecnologias que dominei
+### 🧰 Tecnologias que domino
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -24,8 +27,8 @@
 ### 🏀 NBA Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UsmcxQZFk6F1EqmNe0/giphy.gif" width="200px"/>
-  <br><strong>“Ja Morant programming in real life.”</strong><br>
+  <img src="https://media.giphy.com/media/UsmcxQZFk6F1EqmNe0/giphy.gif" width="200px"/><br>
+  <strong>“Ja Morant programming in real life.”</strong>
 </p>
 
 ---
@@ -34,6 +37,7 @@
 
 <p align="center">
   <img src="https://logodownload.org/wp-content/uploads/2015/02/unicamp-logo-branco.png" height="60"/>
+  &nbsp;&nbsp;
   <img src="https://www3.ft.unicamp.br/sites/default/files/logotipo/novo/logo/af-vertical/af-logo-ft-vertical-pos.png" height="60"/>
 </p>
 
@@ -51,10 +55,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2pacdevv&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2pacdevv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
+
 </p>
-
----
-
-![snake gif](https://github.com/SEU-USUARIO/2pacdevv/blob/output/github-snake.svg)
-
